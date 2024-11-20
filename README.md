@@ -23,10 +23,10 @@ This repository contains the following:
 # Other repositories
 
 ## Emulator
-Run and debug CESC16 programs from a Linux system with the [CESC16 emulator](https://github.com/p-rivero/CESC16-emulator).
+Run and debug CESC16 programs from a Linux system with the [CESC16 emulator](https://github.com/pol-rivero/CESC16-emulator).
 More details at the emulator's own repository.
 
 ## C compiler
-`lcc` is a retargetable ANSI C compiler. [This repository](https://github.com/p-rivero/lcc) contains an `lcc` backend for the CESC16 architecture.
+`lcc` is a retargetable ANSI C compiler. [This repository](https://github.com/pol-rivero/lcc) contains an `lcc` backend for the CESC16 architecture.
 
 Writing new software for the CESC16 computer in C is much easier than using assembly. The code that the compiler produces is slightly slower than human-written assembly, but most of the time the speed difference is not very significant.

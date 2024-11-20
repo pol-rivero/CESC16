@@ -99,7 +99,7 @@ You may reply that those microcontrollers "don't count", because they're not a p
 
 The I/O module contains 4 peripherals:
 - [**Serial line + PS/2 keyboard**](Peripherals/Keyboard_Serial) (using an Arduino Nano, since it already has the ICs needed for USB serial).
-- [**VGA terminal**](https://github.com/p-rivero/ArduinoVGA) (using an ATmega328P).
+- [**VGA terminal**](https://github.com/pol-rivero/ArduinoVGA) (using an ATmega328P).
 - **16-bit timer** (no microcontroller used, only 74-series chips).
 - [**USB flash drive**](Peripherals/USB_Disk) (using an ATmega328P and a CH376S module).
 

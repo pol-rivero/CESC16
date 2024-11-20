@@ -1,3 +1,3 @@
 [submodule "Peripherals/VGA_Terminal"]
 	path = Peripherals/VGA_Terminal
-	url = https://github.com/p-rivero/ArduinoVGA.git
+	url = https://github.com/pol-rivero/ArduinoVGA.git
