@@ -17,6 +17,8 @@ This repository contains the following:
 
 > The used assembler is **customasm**, which you can find [here](https://github.com/hlorenzi/customasm).
 
+<img src="Pictures/fibonacci.jpg" alt="Fibonacci sequence" width="600"/>
+
 <img src="Pictures/AllModules.jpg" alt="Picture of the finished computer" width="600"/>
 
 
